@@ -6,11 +6,11 @@
   
   ## Table of Contents: ##
   
-  - [Installation](#Installation:)
+  - [Installation](#installation)
   
   
   
-  ## Installation: ##
+  ## <a name="installation"></a>Installation: ##
   
   dfs
   
