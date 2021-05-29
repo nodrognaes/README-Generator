@@ -32,6 +32,6 @@
   
   ## Questions: ##
   
-  [My Github](https://github.com/nodrognaes)
+  Github: [https://github.com/${data.github}](https://github.com/${data.github})
 
   Email: nodrog.naes@gmail.com
