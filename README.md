@@ -6,7 +6,7 @@
   
   ## Table of Contents: ##
   
-  - [Installation](#installation)
+  * [Installation](#installation)
   
   
   
@@ -32,6 +32,5 @@
   
   ## Questions: ##
   
-  Github: [https://github.com/${data.github}](https://github.com/${data.github})
 
   Email: nodrog.naes@gmail.com
